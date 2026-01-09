@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a web developer. <br>🌱 I’m currently learning Python, Selenium<br>
+🔭 I’m currently working as a web developer. <br> 🌱 I’m currently learning **python, selenium**<br>📫 How to reach me **elinashrsth@gmail.com**
 
 
 ## 🌐 Socials:
